@@ -26,6 +26,10 @@ h1 {
   font-weight: 200!important;
 }
 
-.outcomes {
+/*.outcomes {
   display: none;
+}*/
+
+.equilateral, .scalene, .isosceles, .not{
+  display:none;
 }
